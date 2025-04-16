@@ -2,7 +2,6 @@
 
 `mmproxy-docker` is a docker for `go-mmproxy`.
 
-
 [DockerHub](https://hub.docker.com/r/duan2001/mmproxy)
 [GHCR](https://github.com/djylb/mmproxy-docker/pkgs/container/mmproxy)
 
