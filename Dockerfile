@@ -1,4 +1,4 @@
-FROM golang:latest AS builder
+FROM golang:alpine AS builder
 WORKDIR /app
 RUN apk add --no-cache git
 RUN git clone https://github.com/path-network/go-mmproxy .
