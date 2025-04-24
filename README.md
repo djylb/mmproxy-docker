@@ -40,7 +40,7 @@ If no port mappings are provided, it defaults to `15000:5000`.
 
 ## Configuration
 
-- **Environment Variable** `PORT_MAPPINGS`: Set port mappings, e.g., `15000:5000,15001:5001`.
+- **Environment Variable** `PORT_MAPPINGS`: Set port mappings, e.g. `15000:5000,15001:5001`.
 - **Default Port Mappings**: If `PORT_MAPPINGS` is not provided via environment variable or command-line arguments, it defaults to `15000:5000`.
 
 ---
