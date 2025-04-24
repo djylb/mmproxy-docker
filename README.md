@@ -7,6 +7,8 @@
 
 ## Usage
 
+[Listening port]:[Target port]
+
 ### 1. Using Environment Variables
 
 Set the port mappings using the environment variable `PORT_MAPPINGS` and run the container:
